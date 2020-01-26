@@ -1,4 +1,4 @@
-# Projeto-Cadastro de Funcionários
+Guia de utilização do RH-Production
 ------------------------------------
 
 Projeto feito utilizando Qt Creator para a disciplina de Programação Estruturada.
